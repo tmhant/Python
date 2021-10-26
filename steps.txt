@@ -1,0 +1,9 @@
+1. 至官網下載 Python 進行安裝，建議使用 3.6.8 版
+2. 至官網下載 neo4j 進行安裝，安裝 neo4j desktop 即可
+3. 安裝程式所需套件：pip install -r requirements.txt
+4. 至 ckiptagger pypi 官網，下載中研院語言模型
+5. 開啟自己的 neo4j 資料庫
+	a. Project 旁邊的 New 點一下，新增計畫
+	b. 新增資料庫，密碼先預設為 password
+	c. 啟動資料庫
+6. 資料庫啟動完成後，運行程式
